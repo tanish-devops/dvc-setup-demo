@@ -1,4 +1,0 @@
-[core]
-    remote = insurance
-['remote "insurance"']
-    url = s3://mlop1
